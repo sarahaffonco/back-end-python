@@ -1,3 +1,9 @@
+## atores - estacionaento, vaga, carro e moto.
+## dados - 10 vagas, 5 para carro e 5 para motos
+## atributo - placa 
+
+
+
 class Carro:
     def __init__(self, placa):
         self.placa = placa
